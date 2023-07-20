@@ -1,0 +1,15 @@
+C:\Development\CSharp\Baltaio\Stopwatch\bin\Debug\net7.0\Stopwatch.exe
+C:\Development\CSharp\Baltaio\Stopwatch\bin\Debug\net7.0\Stopwatch.deps.json
+C:\Development\CSharp\Baltaio\Stopwatch\bin\Debug\net7.0\Stopwatch.runtimeconfig.json
+C:\Development\CSharp\Baltaio\Stopwatch\bin\Debug\net7.0\Stopwatch.dll
+C:\Development\CSharp\Baltaio\Stopwatch\bin\Debug\net7.0\Stopwatch.pdb
+C:\Development\CSharp\Baltaio\Stopwatch\obj\Debug\net7.0\Stopwatch.csproj.AssemblyReference.cache
+C:\Development\CSharp\Baltaio\Stopwatch\obj\Debug\net7.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\CSharp\Baltaio\Stopwatch\obj\Debug\net7.0\Stopwatch.AssemblyInfoInputs.cache
+C:\Development\CSharp\Baltaio\Stopwatch\obj\Debug\net7.0\Stopwatch.AssemblyInfo.cs
+C:\Development\CSharp\Baltaio\Stopwatch\obj\Debug\net7.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Development\CSharp\Baltaio\Stopwatch\obj\Debug\net7.0\Stopwatch.dll
+C:\Development\CSharp\Baltaio\Stopwatch\obj\Debug\net7.0\refint\Stopwatch.dll
+C:\Development\CSharp\Baltaio\Stopwatch\obj\Debug\net7.0\Stopwatch.pdb
+C:\Development\CSharp\Baltaio\Stopwatch\obj\Debug\net7.0\Stopwatch.genruntimeconfig.cache
+C:\Development\CSharp\Baltaio\Stopwatch\obj\Debug\net7.0\ref\Stopwatch.dll

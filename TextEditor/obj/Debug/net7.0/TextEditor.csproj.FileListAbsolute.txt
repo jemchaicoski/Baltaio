@@ -1,0 +1,15 @@
+C:\Development\CSharp\Baltaio\TextEditor\obj\Debug\net7.0\TextEditor.csproj.AssemblyReference.cache
+C:\Development\CSharp\Baltaio\TextEditor\obj\Debug\net7.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\CSharp\Baltaio\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfoInputs.cache
+C:\Development\CSharp\Baltaio\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfo.cs
+C:\Development\CSharp\Baltaio\TextEditor\obj\Debug\net7.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Development\CSharp\Baltaio\TextEditor\bin\Debug\net7.0\TextEditor.exe
+C:\Development\CSharp\Baltaio\TextEditor\bin\Debug\net7.0\TextEditor.deps.json
+C:\Development\CSharp\Baltaio\TextEditor\bin\Debug\net7.0\TextEditor.runtimeconfig.json
+C:\Development\CSharp\Baltaio\TextEditor\bin\Debug\net7.0\TextEditor.dll
+C:\Development\CSharp\Baltaio\TextEditor\bin\Debug\net7.0\TextEditor.pdb
+C:\Development\CSharp\Baltaio\TextEditor\obj\Debug\net7.0\TextEditor.dll
+C:\Development\CSharp\Baltaio\TextEditor\obj\Debug\net7.0\refint\TextEditor.dll
+C:\Development\CSharp\Baltaio\TextEditor\obj\Debug\net7.0\TextEditor.pdb
+C:\Development\CSharp\Baltaio\TextEditor\obj\Debug\net7.0\TextEditor.genruntimeconfig.cache
+C:\Development\CSharp\Baltaio\TextEditor\obj\Debug\net7.0\ref\TextEditor.dll
