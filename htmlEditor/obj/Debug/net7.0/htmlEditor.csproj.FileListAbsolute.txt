@@ -1,0 +1,15 @@
+C:\Development\CSharp\Baltaio\htmlEditor\obj\Debug\net7.0\htmlEditor.csproj.AssemblyReference.cache
+C:\Development\CSharp\Baltaio\htmlEditor\obj\Debug\net7.0\htmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\CSharp\Baltaio\htmlEditor\obj\Debug\net7.0\htmlEditor.AssemblyInfoInputs.cache
+C:\Development\CSharp\Baltaio\htmlEditor\obj\Debug\net7.0\htmlEditor.AssemblyInfo.cs
+C:\Development\CSharp\Baltaio\htmlEditor\obj\Debug\net7.0\htmlEditor.csproj.CoreCompileInputs.cache
+C:\Development\CSharp\Baltaio\htmlEditor\bin\Debug\net7.0\htmlEditor.exe
+C:\Development\CSharp\Baltaio\htmlEditor\bin\Debug\net7.0\htmlEditor.deps.json
+C:\Development\CSharp\Baltaio\htmlEditor\bin\Debug\net7.0\htmlEditor.runtimeconfig.json
+C:\Development\CSharp\Baltaio\htmlEditor\bin\Debug\net7.0\htmlEditor.dll
+C:\Development\CSharp\Baltaio\htmlEditor\bin\Debug\net7.0\htmlEditor.pdb
+C:\Development\CSharp\Baltaio\htmlEditor\obj\Debug\net7.0\htmlEditor.dll
+C:\Development\CSharp\Baltaio\htmlEditor\obj\Debug\net7.0\refint\htmlEditor.dll
+C:\Development\CSharp\Baltaio\htmlEditor\obj\Debug\net7.0\htmlEditor.pdb
+C:\Development\CSharp\Baltaio\htmlEditor\obj\Debug\net7.0\htmlEditor.genruntimeconfig.cache
+C:\Development\CSharp\Baltaio\htmlEditor\obj\Debug\net7.0\ref\htmlEditor.dll
