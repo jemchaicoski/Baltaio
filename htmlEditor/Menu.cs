@@ -11,7 +11,7 @@ public static class Menu
         WriteOptions();
 
         var option = short.Parse(Console.ReadLine());
-        handleMenuOption(option);
+        HandleMenuOption(option);
     }
 
     public static void DrawScreen()
@@ -56,13 +56,15 @@ public static class Menu
 
     }
 
-    public static void handleMenuOption(short option)
+    public static void HandleMenuOption(short option)
     {
         switch (option)
         {
             case 1: Editor.Show(); break;
-            case 2: Console.WriteLine("View"); break;
-            case 3: Console.WriteLine("Exit"); break;
+            case 2: Viewer.Show(""); break;
+            case 3:
+                Console.Clear();
+                Environment.Exit(0); break;
             default: Show(); break;
         }
     }
